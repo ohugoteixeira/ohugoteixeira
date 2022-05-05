@@ -6,7 +6,7 @@
 * 🔭 I'm doing my way into Web Development to reach on Fullstack.
 * 🌱 I’m currently learning: HTML, CSS (Bootstrap), JS (ReactJs).
 * 👨‍💻 All of my projects are available at [portifolio](https://github.com/Djbetamax/Projetos)
-* ⚡ Fun fact **Oneye 😜**
+* ⚡ Fun fact (or not hahaha) I'm like to play some stuff and my favorite game is Path Of Exile witch are an Action RPG based on Diablo II.
 
 <br>
 ## 🛠  Tech Stack
