@@ -13,31 +13,32 @@
 
 ## 🛠  Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootsrap-05122A?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 <!-- I'm about to learn these
-![C++](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;;
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Ajax](https://img.shields.io/badge/-Ajax(JQuery)-05122A?style=flat&logo=Jquery)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 -->
 
 <br>
 
 ## ⚙️  GitHub Analytics
 
-<img width="530" src="https://github-readme-stats.vercel.app/api?username=Djbetamax&amp;theme=vision-friendly-dark&amp;line_height=20&amp;show_icons=true&amp;include_all_commits=true" alt="djbetamax's stats"> <img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;theme=vision-friendly-dark" alt="djbetamax's most languages">
+<img width="530" src="https://github-readme-stats.vercel.app/api?username=Djbetamax&amp;theme=vision-friendly-dark&amp;line_height=20&amp;show_icons=true&amp;include_all_commits=true" alt="djbetamax's stats">
+<img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;theme=vision-friendly-dark" alt="djbetamax's most languages">
 
 <br>
 
