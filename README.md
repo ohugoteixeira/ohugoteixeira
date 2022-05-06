@@ -34,6 +34,7 @@
 -->
 
 <br>
+
 ## ⚙️  GitHub Analytics
 
 <img width="530" src="https://github-readme-stats.vercel.app/api?username=Djbetamax&amp;theme=vision-friendly-dark&amp;line_height=20&amp;show_icons=true&amp;include_all_commits=true" alt="djbetamax's stats"> <img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact&amp;theme=vision-friendly-dark" alt="djbetamax's most languages">
@@ -45,19 +46,3 @@
 <a href="www.linkedin.com/in/8dev" target="blank"><img src="https://img.shields.io/badge/-8Dev-05122A?style=flat&amp;logo=linkedin" alt="linkedin"></a>
 <a href="https://www.instagram.com/hugo_8dev/" target="blank"><img src="https://img.shields.io/badge/-8Dev-05122A?style=flat&amp;logo=instagram" alt="instagram"></a>
 <a href="mailto:hugots23@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-05122A?&amp;logo=Gmail" alt="gmail"></a>
-<a href="https://api.whatsapp.com/send?phone=5521976273854" target="blank"><img src="https://img.shields.io/badge/-WhatsApp-05122A?&amp;logo=whatsapp&logoColor=green" alt="whatsapp"></a>
-
-<!--
-**Djbetamax/sobre-hugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
