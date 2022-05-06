@@ -38,7 +38,7 @@
 
 ## ⚙️  GitHub Analytics
 
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=Djbetama&amp;theme=vision-friendly-dark&amp;line_height=20&amp;show_icons=true&amp;include_all_commits=true" alt="djbetamax's stats">
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=Djbetamax&amp;theme=vision-friendly-dark&amp;line_height=20&amp;show_icons=true&amp;include_all_commits=true" alt="djbetamax's stats">
 <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djbetamax&amp;layout=compact&amp;theme=vision-friendly-dark" alt="djbetamax's most languages">
 
 <br>
