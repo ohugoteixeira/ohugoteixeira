@@ -49,6 +49,6 @@
   <p align="center">
     <a href="www.linkedin.com/in/8dev" target="blank"><img src="https://img.shields.io/badge/8Dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
     <a href="https://www.instagram.com/hugo_8dev/" target="blank"><img src="https://img.shields.io/badge/8Dev-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>
-    <a href="mailto:hugots23@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+    <a href="mailto:hugots23@gmail.com" target="blank"><img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
   </p>
 </div>
