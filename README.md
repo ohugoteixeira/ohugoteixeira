@@ -8,7 +8,7 @@
 * 🔭 I'm doing my way into Web Development to reach on Fullstack.
 * 🌱 I’m currently learning: HTML, CSS (Bootstrap), JS (ReactJs).
 * 👨‍💻 All of my projects are available at my [Github](https://github.com/Djbetamax/Projetos)
-* ⚡ Fun fact (or not hahaha): Currently I'm playing some Rogue Like games but my favorite game is Path Of Exile which is an Action RPG based on Diablo II.
+* ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile which is an Action RPG based on Diablo II.
 * 😄 Pronouns: He/Him
 
 <br>
@@ -76,7 +76,9 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
+
   <!-- I'm about to learn these
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)" alt="postgresql">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
