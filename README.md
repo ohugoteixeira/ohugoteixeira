@@ -101,11 +101,9 @@
 
 ## ⚙️  GitHub Analytics
 
-<div>
-  <img align="top" width="500" src="https://github-readme-stats.vercel.app/api?username=Djbetamax&amp;theme=vision-friendly-dark&amp;line_height=20&amp;show_icons=true&amp;include_all_commits=true" height="160px" alt="djbetamax's stats">
-  <img align="top" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djbetamax&amp;layout=compact&amp;theme=vision-friendly-dark"
+![Djbetamax's stats](https://github-readme-stats.vercel.app/api?username=djbetamax&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true)
+  <img align="top" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djbetamax&layout=compact&amp;theme=vision-friendly-dark"
   height="160px" alt="djbetamax's most languages">
-</div>
 
 <br>
 
