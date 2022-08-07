@@ -14,56 +14,6 @@
 <br>
 
 ## 🛠  Tech Stack
-<!--
-### &nbsp; Design
-
-<div>
-  <p>
-    <img src="https://img.shields.io/badge/figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-    <img src="" alt="">
-  </P>
-</div>
-
-### &nbsp;&nbsp;&nbsp; Languages
-
-<div>
-  <p>
-    <img src="" alt="">
-  </P>
-</div>
-
-### &nbsp;&nbsp;&nbsp; Versioning
-
-<div>
-  <p>
-    <img src="" alt="">
-  </P>
-</div>
-
-### &nbsp;&nbsp;&nbsp; Databases
-
-<div>
-  <p>
-    <img src="" alt="">
-  </P>
-</div>
-
-### &nbsp;&nbsp;&nbsp; Servers
-
-<div>
-  <p>
-    <img src="" alt="">
-  </P>
-</div>
-
-### &nbsp;&nbsp;&nbsp; Frameworkd/CMS/Others
-
-<div>
-  <p>
-    <img src="" alt="">
-  </P>
-</div>
--->
 
 <div>
 
@@ -101,9 +51,14 @@
 
 ## ⚙️  GitHub Analytics
 
-![Djbetamax's stats](https://github-readme-stats.vercel.app/api?username=djbetamax&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true)
-  <img align="top" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djbetamax&layout=compact&amp;theme=vision-friendly-dark"
-  height="160px" alt="djbetamax's most languages">
+<div>
+  <p align="center">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="500px" height="160px" alt="djbetamax's stats">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="500px" height="160px" alt="djbetamax's most used languages">
+  </p>
+</div>
+
+  
 
 <br>
 
@@ -111,8 +66,15 @@
 
 <div>
   <p align="center">
-    <a href="www.linkedin.com/in/8dev" target="blank"><img src="https://img.shields.io/badge/8Dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-    <a href="https://www.instagram.com/hugo_8dev/" target="blank"><img src="https://img.shields.io/badge/8Dev-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"></a>
-    <a href="mailto:hugots23@gmail.com" target="blank"><img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+    <a href="www.linkedin.com/in/8dev" target="blank">
+      <img src="https://img.shields.io/badge/8Dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    </a>
+    <a href="https://www.instagram.com/hugo_8dev/" target="blank">
+      <img src="https://img.shields.io/badge/8Dev-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram">
+    </a>
+    <a href="mailto:hugots23@gmail.com" target="blank">
+      <img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+    </a>
   </p>
+
 </div>
