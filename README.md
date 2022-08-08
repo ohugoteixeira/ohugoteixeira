@@ -12,10 +12,10 @@
 
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="40px" height="40px" alt="a rocket"> Tech Stack
 
-<div>
+
 
 ### I know:
-
+<div>
   <p align="left">
  
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
 
   </p>
@@ -43,7 +42,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
 
   </p>
-
 </div>
 
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/robot_1f916.png" width="40px" height="40px" alt="robot blinking"> GitHub Analytics
@@ -74,6 +72,8 @@
     <a href="mailto:hugots23@gmail.com" target="blank">
       <img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
+    <a href="https://api.whatsapp.com/send?phone=5521976273854" target="blank">
+      <img src="https://camo.githubusercontent.com/7bd751781e6f998e2fa3460d679bdddaa84d355b18418dca1dfa5ef317adc5dc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576861747341707026636f6c6f723d323232323232266c6f676f3d5768617473417070266c6f676f436f6c6f723d323544333636266c6162656c3d" alt="whatsapp">
   </p>
 
 </div>
