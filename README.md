@@ -6,7 +6,7 @@
 * 📚 In my academic life I'm studying Computer Engineering
 * 🔭 I'm doing my way into Web Development to reach on Fullstack.
 * 🌱 I’m currently learning: HTML, CSS (Bootstrap), JS (ReactJs).
-* 👨‍💻 All of my projects are available at my [Github](https://github.com/Djbetamax/Projetos)
+* 👨‍💻 All of my projects are available at my [Github](https://github.com/Djbetamax/projects)
 * ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile which is an Action RPG based on Diablo II.
 * 😄 Pronouns: He/Him
 
