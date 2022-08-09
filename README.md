@@ -63,16 +63,16 @@
 
 <div>
   <p align="center">
-    <a href="www.linkedin.com/in/8dev" target="_blank">
+    <a href="https://www.linkedin.com/in/8dev/" rel="noopener noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/8Dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
     </a>
-    <a href="https://www.instagram.com/hugo_8dev/" target="_blank">
+    <a href="https://www.instagram.com/hugo_8dev/" rel="noopener noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/8Dev-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram">
     </a>
-    <a href="mailto:hugots23@gmail.com" target="_blank">
+    <a href="mailto:hugots23@gmail.com" rel="noopener noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5521976273854" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=5521976273854" rel="noopener noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/Message me-202020?style=for-the-badge&logo=whatsapp&logoColor=green" alt="gmail">
     </a>
   </p>
