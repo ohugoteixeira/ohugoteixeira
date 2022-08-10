@@ -69,7 +69,7 @@
     <a href="https://www.instagram.com/hugo_8dev/" rel="noopener noreferrer" target="_blank">
       <img src="https://img.shields.io/badge/8Dev-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram">
     </a>
-    <a href="mailto:hugots23@gmail.com" rel="noopener noreferrer" target="_blank">
+    <a href="mailto:hugots23@gmail.com?subject=Subject&body=type a message">
       <img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5521976273854" rel="noopener noreferrer" target="_blank">
