@@ -48,9 +48,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" alt="djbetamax's trophies">
     <div>
       <p align="center">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="300px"alt="djbetamax's stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="300px" alt="djbetamax's djbetamax">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="300px" alt="djbetamax's most used languages">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="280px"alt="djbetamax's stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="280px" alt="djbetamax's djbetamax">
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="280px" alt="djbetamax's most used languages">
       </p>
     </div>
   </p>
