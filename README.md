@@ -69,8 +69,5 @@
     <a href="mailto:hugots23@gmail.com?subject=Contact&body=Hi, I'm...">
       <img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5521976273854" rel="noopener noreferrer" target="_blank">
-      <img src="https://img.shields.io/badge/Message me-202020?style=for-the-badge&logo=whatsapp&logoColor=green" alt="gmail">
-    </a>
   </p>
 </div>
