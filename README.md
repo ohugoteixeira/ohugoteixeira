@@ -6,9 +6,9 @@
   <h1>
     Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width="40px" height="40px">, I'm Hugo Teixeira.
   </h1>
-  <span>
+  <!-- <span>
     <hr>
-  </span>
+  </span> -->
 </div>
 
  <img src="https://komarev.com/ghpvc/?username=djbetamax&amp;color=green" alt="profile views">
