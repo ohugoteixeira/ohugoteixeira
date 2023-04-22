@@ -18,7 +18,6 @@
 * 🌱 I’m currently learning: HTML, CSS (Bootstrap), JS (ReactJs).
 * 👨‍💻 All of my projects are available on my [Github](https://github.com/Djbetamax/projects).
 * ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile which is an Action RPG based on Diablo II.
-* 😄 Pronouns: He/Him.
 
 ## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="40px" height="40px" alt="a rocket"> Tech Stack
 
