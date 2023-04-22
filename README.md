@@ -4,7 +4,7 @@
   </span> 
   <img align="center" src="avatar-img.svg" alt="avatar picture" height="120px">
   <h1>
-    Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width="40px" height="40px">, I'm Hugo Teixeira.
+    Hi 👋🏽, I'm Hugo Teixeira.
   </h1>
   <!-- <span>
     <hr>
@@ -19,7 +19,7 @@
 * 👨‍💻 All of my projects are available on my [Github](https://github.com/Djbetamax/projects).
 * ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile which is an Action RPG based on Diablo II.
 
-## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/rocket_1f680.png" width="40px" height="40px" alt="a rocket"> Tech Stack
+## 🚀 Tech Stack
 
 ### I know:
 
@@ -48,7 +48,7 @@
   </p>
 </div>
 
-## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/robot_1f916.png" width="40px" height="40px" alt="robot blinking"> GitHub Analytics
+## 🤖 GitHub Analytics
 
 <div>
   <p align="center">
@@ -63,7 +63,7 @@
   </p>
 </div>
 
-## <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-medium-skin-tone-curly-hair_1f468-1f3fd-200d-1f9b1.png" width="40px" height="40px" alt="person nodding"> Contact and Social Links
+## 📱 Contact and Social Links
 
 <div>
   <p align="center">
@@ -80,5 +80,4 @@
 </div>
 <span>
   <hr>
-</span> 
-    
+</span>
