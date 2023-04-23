@@ -44,7 +44,7 @@
     <img src="https://camo.githubusercontent.com/95a15266c9b093e9070410fa62c8dcba6611e79edd738e0ded7ec5b52541d6c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f737467726553514c26636f6c6f723d343136394531266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="postgresql">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python">
+    <img src="https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
   </p>
 </div>
 
