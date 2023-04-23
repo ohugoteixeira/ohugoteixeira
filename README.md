@@ -14,7 +14,7 @@
  <img src="https://komarev.com/ghpvc/?username=djbetamax&amp;color=green" alt="profile views">
 
 * 📚 In my academic life I'm studying Computer Engineering.
-* 🔭 I'm doing my way into Web Development (Front-End) to reach Fullstack Development.
+* 🔭 I'm doing my way into Web Development (Front-End) to reach Fullstack Engineer.
 * 🌱 I’m currently learning: HTML, CSS (Bootstrap), JS (ReactJs).
 * 👨‍💻 All of my projects are available on my [Github](https://github.com/Djbetamax/projects).
 * ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile which is an Action RPG based on Diablo II.
