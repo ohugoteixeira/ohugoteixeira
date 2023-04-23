@@ -39,12 +39,13 @@
 ### I will learn:
   
   <p align="left">
-    <img src="https://camo.githubusercontent.com/539a184961e9ab46a914b3a57718cd52f9a122ffb33a0bcaaa92484add20ba72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="mysql">
+    <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
-    <img src="https://camo.githubusercontent.com/95a15266c9b093e9070410fa62c8dcba6611e79edd738e0ded7ec5b52541d6c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f737467726553514c26636f6c6f723d343136394531266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="postgresql">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
     <img src="https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
   </p>
 </div>
 
@@ -71,7 +72,7 @@
       <img src="https://img.shields.io/badge/8Dev-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 25px" alt="linkedin">
     </a>
     <a href="https://www.instagram.com/hugo_8dev/" rel="noopener noreferrer" target="_blank">
-      <img src="https://img.shields.io/badge/hugo8Dev-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 25px; margin: 0 5px 0 5px;" alt="instagram">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 25px; margin: 0 5px 0 5px;" alt="instagram">
     </a>
     <a href="mailto:hugots23@gmail.com?subject=Contact&body=Hi, I'm...">
       <img src="https://img.shields.io/badge/Mail me-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 25px" alt="gmail">
