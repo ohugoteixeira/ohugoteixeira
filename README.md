@@ -17,51 +17,22 @@
 * 🔭 I'm doing my way into Web Development (Front-End) to reach Fullstack Engineer.
 * 🌱 I’m currently learning: HTML, CSS (Bootstrap), JS (ReactJs), Java (Spring), MySQL.
 * 👨‍💻 All of my projects are available on my [Github](https://github.com/Djbetamax/projects).
-* ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile which is an Action RPG based on Diablo II.
+* ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile, an Action RPG based on Diablo II.
 
 ## 🚀 Tech Stack
-
-### I know:
-
-<div>
-  <p align="left">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring">
-    <img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visual studio code">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-  </p>
-
-### I will learn:
-  
-  <p align="left">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js"> 
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-    <img src="https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
-    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
-  </p>
-</div>
+    
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,java,spring,mysql,postgresql,git,github,vscode,figma,aws&theme=dark)](https://skillicons.dev)
 
 ## 🤖 GitHub Analytics
 
 <div>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" alt="djbetamax's trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=djbetamax&theme=onestar&border_radius=25px&hide_border=true&no-frame=true&no-bg=true&&rank=-C&row=1" alt="djbetamax's trophies">
     <div>
       <p align="center">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="280px"alt="djbetamax's stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="280px" alt="djbetamax's djbetamax">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="280px" alt="djbetamax's most used languages">
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=contribs&border_radius=25px&hide_border=true" width="320px"alt="djbetamax's stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="360px" alt="djbetamax's djbetamax">
+        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&border_radius=25px&hide_border=true" width="320px" alt="djbetamax's most used languages">
       </p>
     </div>
   </p>
