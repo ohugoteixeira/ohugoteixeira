@@ -31,8 +31,8 @@
     <div>
       <p align="center">
         <img align="top" src="https://github-readme-stats.vercel.app/api?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=contribs&border_radius=25px&hide_border=true" width="320px"alt="djbetamax's stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="360px" alt="djbetamax's djbetamax">
         <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djbetamax&layout=compact&amp&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&border_radius=25px&hide_border=true" width="320px" alt="djbetamax's most used languages">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=djbetamax&theme=vision-friendly-dark&border_radius=25px&hide_border=true" width="360px" alt="djbetamax's djbetamax">
       </p>
     </div>
   </p>
