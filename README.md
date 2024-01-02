@@ -12,7 +12,7 @@
 
 * 📚 In my academic life I'm studying Computer Engineering.
 * 🔭 I'm doing my way into Web Development (Front-End) to reach Fullstack Engineer.
-* 🌱 I’m currently learning: HTML, CSS, JS, Java (Spring), MySQL.
+* 🌱 I’m currently learning: Java & Spring.
 * 👨‍💻 All of my projects are available on my [Github](https://github.com/hugopontojava/projects).
 * ⚡ Fun fact (or not hahaha): My favorite game is Path Of Exile, an Action RPG based on Diablo II.
 
