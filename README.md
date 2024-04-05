@@ -18,7 +18,7 @@
 
 ## 🚀 Tech Stack
     
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,java,spring,mysql,postgresql,git,github,vscode,figma,aws&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,angular,java,spring,mysql,git,github,vscode,figma,aws&theme=dark)](https://skillicons.dev)
 
 ## 🤖 GitHub Analytics
 
